@@ -1,19 +1,54 @@
+body {
+  font-weight: bold;
+  background-color: darkgray;
+}
+
 .header {
   background-color: #e5e5e5;
+  width: 800px;
+  padding: 15px;
+  margin-right: 12px;
+  margin-left: 12px;
 }
 
 .toprow {
   background-color: #d8b2b2;
+  width: 800px;
+  padding: 15px;
+  margin-right: 12px;
+  margin-left: 12px;
+}
+
+.toprow a {
+  color: blue;
 }
 
 .column1 {
   background-color: #99cc99;
-  width: 75%;
+  width: 500px;
   float: left;
+  padding: 15px;
+  margin-left: 12px;
+  margin-bottom: 12px;
+}
+
+.column1 a {
+  color: blue;
 }
 
 .column2 {
   background-color: #9999ff;
-  width: 25%;
+  width: 270px;
   float: left;
+  padding: 15px;
+  margin-right: 12px;
+  margin-bottom: 12px;
+}
+
+.column2 a {
+  color: blue;
+}
+
+.purple-link a {
+  color: purple;
 }
