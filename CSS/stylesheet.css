@@ -1,0 +1,19 @@
+.header {
+  background-color: #e5e5e5;
+}
+
+.toprow {
+  background-color: #d8b2b2;
+}
+
+.column1 {
+  background-color: #99cc99;
+  width: 75%;
+  float: left;
+}
+
+.column2 {
+  background-color: #9999ff;
+  width: 25%;
+  float: left;
+}
