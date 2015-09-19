@@ -1,23 +1,23 @@
-# _Layout Test Review - Introduction to Programming_
+# _ Layout Test Review - Introduction to Programming _
 
-##### _Using HTML and CSS to manipulate the layout of a webpage to match a sample page given us, 9/18/2015_
+##### _ Using HTML and CSS to manipulate the layout of a webpage to match a sample page given us, 9/18/2015 _
 
-#### By _**Quinn Oaks**_
+#### By _ **Quinn Oaks** _
 
 ## Description
 
-_Using HTML and CSS to manipulate the layout of a webpage to match a sample page given to us. Includes to rows and two columns, all of multiple colors. Used CSS to style the page to match the sample. Current webpage layout is static._
+_ Using HTML and CSS to manipulate the layout of a webpage to match a sample page given to us. Includes to rows and two columns, all of multiple colors. Used CSS to style the page to match the sample. Current webpage layout is static. _
 
 ## Setup
 
-* _Click on this GH Page link - _
-* _View the page in multiple size browsers._
+* _ Click on this GH Page link - quinnoaks.github.io/layout_test_review _
+* _ View the page in multiple size browsers. _
 
-_There are no dependencies to view this webpage, other than a newer web browser._
+_ There are no dependencies to view this webpage, other than a newer web browser. _
 
 ## Technologies Used
 
-_HTML and CSS_
+_ HTML and CSS _
 
 ### Legal
 
